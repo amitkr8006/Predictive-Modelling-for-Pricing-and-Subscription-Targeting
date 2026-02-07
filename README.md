@@ -1,0 +1,2 @@
+# Predictive-Modelling-for-Pricing-and-Subscription-Targeting
+Predictive analytics portfolio combining (1) term deposit subscription prediction using CRISP-DM, oversampling and model comparison (boosted trees: 86.99% accuracy, 92.40% recall), and (2) airfare prediction for new routes using SEMMA and model benchmarking (boosting regression best, R²≈0.795) including a Southwest entry fare-impact simulation.
